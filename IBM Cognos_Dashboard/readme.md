@@ -19,7 +19,7 @@ Capture the following KPI metrics as visualizations:
 
 2. On the Sales dashboard in the large rectangle (Panel 5), display ‘Profit’ by ‘Dealer ID’ as a column chart, sorted in ascending order.
 
-#### Tools : use Cognos Analytics for cleaning, analyzing and also visualization.
+#### Tools : use Cognos Analytics for cleaning, analyzing and also for visualization.
 
 #### Dashboard : https://github.com/Tabassum-Sumaiya/Visualization/blob/main/IBM%20Cognos_Dashboard/Sales_Dashboard.JPG
 
